@@ -1,0 +1,14 @@
+{
+  "main": "src/app.js",
+  "private": true,
+  "scripts": {
+    "test": "eslint .",
+    "start": "tabris serve -a"
+  },
+  "dependencies": {
+    "tabris": "~3.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.11.0"
+  }
+}

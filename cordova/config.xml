@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="unionjak.teetles" version="0.1.0">
+  <name>teetles</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="stgeorgecross@googlemail.com">
+    unionjak
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+</widget>
